@@ -1,0 +1,1068 @@
+/**----------Styles for Home Page + About Us Page----------**/
+
+.homePage{
+    width: 1440px;
+    height: 950px;
+    position: absolute;
+    background: rgb(255, 255, 255);
+}
+
+.logo{
+    width: 138px;
+    height: 72px;
+    left: 1110px;
+    top: 20px;
+    position: absolute;  
+}
+
+.navigation{
+    width: 1248px;
+    height: 112px;
+    left: 96px;
+    top: 0px;
+    position: absolute;
+}
+
+.home_page{
+    left: 968px;  
+}
+
+.interpreters{
+    left: 846px; 
+}
+
+.favorites{
+    left: 740px;
+}
+
+.user_account{
+    left: 700px;
+}
+
+.interpreter_account{
+    left: 700px;
+}
+
+.who_are_we{
+    left: 641px;
+}
+
+.who_not_login{
+    left: 595px;
+}
+
+.interpreter_sessions{
+    left: 640px;
+}
+
+.options{
+    left: 529px;
+}
+
+.my_sessions{
+    left: 435px;
+}
+
+.comments{
+    left: 270px;
+}
+
+.contacts_us{
+    left: 460px;
+}
+
+.contactss_us{
+    left: 310px;
+}
+
+.add_appointment{
+    left: 395px;
+}
+
+.home_page, .interpreters, .favorites, .user_account, .interpreter_account, .who_are_we, .who_not_login,
+.options, .interpreter_sessions, .my_sessions, .contacts_us, .contactss_us, .comments, .add_appointment {
+    top: 43.50px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 26px;
+    word-wrap: break-word;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;	
+}
+
+a:hover{
+	color: #4e10ab;	
+}
+
+.link{
+    text-decoration: none;
+    color: #ffffff; 
+}
+
+.link:hover{
+    color: #ffffff; 
+}
+
+.login{
+    padding: 13.50px 17px 13.50px 17px;
+    left: 0px;
+    top: 32px;
+    position: absolute;
+    background: black;
+    border-radius: 8px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+.sub_login{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 20.80px;
+    word-wrap: break-word;
+}
+
+.create_account{
+    padding: 13.50px 17px 13.50px 17px;
+    left: 130px;
+    top: 32px;
+    position: absolute;
+    background: #4C299F;
+    border-radius: 8px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+.sub_create_account{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 20.80px;
+    word-wrap: break-word;
+}
+
+.rectangle1{
+    width: 1248px;
+    height: 628px;
+    left: 96px;
+    top: 124px;
+    position: absolute;
+    background: rgba(128.09, 104.93, 172.96, 0.49);
+    border-radius: 39px 39px 0 0;
+}
+
+.NesmaeukImg{
+    width: 363px;
+    height: 382px;
+    left: 744px;
+    top: 90px;
+    position: absolute;
+}
+
+.rectangle2{
+    width: 142px;
+    height: 44px;
+    left: 306px;
+    top: 363px;
+    position: absolute;
+    background: white;
+    border-radius: 39px;
+}
+
+.Rectangle3{
+    width: 380px;
+    height: 410px;
+    right: 220px;
+    top: 200px;
+    position: absolute;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+}
+
+.parag1{
+    width: 320px;
+    left: 222px;
+    top: 152px;
+    font-size: 40px;
+    line-height: 52px;
+}
+
+.parag2{
+    width: 311px;
+    left: 222px;
+    top: 217px;
+    font-size: 32px;
+    line-height: 41.60px;
+}
+
+.parag3{
+    width: 400px;
+    left: 180px;
+    top: 271px;
+    font-size: 24px;
+    line-height: 31.20px;
+}
+
+.parag1_about{
+    width: 320px;
+    left: 315px;
+    top: 252px;
+    font-size: 40px;
+    line-height: 52px;
+}
+
+.parag3_about{
+    width: 400px;
+    left: 280px;
+    top: 380px;
+    font-size: 24px;
+    line-height: 31.20px;
+}
+
+.parag1, .parag2, .parag3, .parag1_about, .parag3_about{
+    position: absolute;
+    color: white;
+    font-family: "Times New Roman";
+    text-align: center;
+    font-weight: 900;
+    word-wrap: break-word;
+    position: absolute;
+}
+
+.nesmaeukImg_about{
+    width: 350px;
+    height: 350px;
+    left: 5px;
+    top: 30px;
+    position: absolute;
+}
+
+.contact_us{
+    left: 356px;
+    top: 374.50px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    font-family: "Times New Roman";
+    font-weight: 600;
+    line-height: 20.80px;
+    word-wrap: break-word;
+}
+
+.ellipse{
+    width: 29px;
+    height: 29px;
+    left: 316px;
+    top: 370px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+}
+
+
+/**----------Styles for Registrartion Page + Login Page----------**/
+
+.rectangle4{
+    width: 1248px;
+    height: 628px;
+    left: -27px;
+    position: absolute;
+    background: rgba(252, 252, 252, 0.77);
+    border-radius: 39px;
+    margin: 123px;
+}
+
+.rectangle5{
+    width: 390px;
+    height: 628px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(128.09, 104.93, 172.96, 0.49);
+    border-radius: 39px 0 0 39px; 
+}
+
+.nesmaeukImg_register{
+    width: 310px;
+    height: 330px;
+    right: 50px;
+    top: 100px;
+    position: absolute;
+}
+
+.NesmaeukImg_appointments{
+    width: 310px;
+    height: 330px;
+    right: 900px;
+    top: 220px;
+    position: absolute;
+}
+
+.container_login{
+    max-width: 600px;
+    margin: 80px 100px 0px 0px;
+    position: absolute;
+}
+
+.container_user{
+    max-width: 600px;
+    margin: 20px 100px 0px 0px;
+    position: absolute;
+}
+
+.container_interpreter{
+    max-width: 600px;
+    margin: -20px 100px 0px 0px;
+    position: absolute;
+}
+
+.form-title{
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 0px;
+    color: rgb(0, 0, 0);
+}
+
+.main-user-info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 0;
+    max-height: 380px;
+}
+
+.user-input-box{
+    display: flex;
+    flex-wrap: wrap;
+    width: 45%;
+    padding-bottom: 25px;
+}
+
+.user-input-box label{
+    width: 95%;
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+    font-weight: 400;
+    margin: 5px 0;
+}
+
+.user-input-box input, .user-input-box select{
+    height: 40px;
+    width: 95%;
+    border-radius: 7px;
+    outline: none;
+    border: 1px solid grey;
+    background-color:#ececec;
+    padding: 0 10px;
+}
+
+.submit_account{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 22px;
+    padding-right: 22px;
+    background: #4C299F;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.submit_account:hover{
+    color: yellow; 
+}
+
+.star{
+    color: red;
+}
+
+.terms{
+    margin: -15px 0 -10px 0;
+}
+
+.form-submit-btn1{
+    margin: 9px 0 9px 0;
+}
+
+.form-submit-btn1 input:hover{
+    cursor: pointer;
+}
+
+/**----------Styles for User Page----------**/
+
+.logout{
+    padding: 13.50px 17px 13.50px 17px;
+    left: 0px;
+    top: 32px;
+    position: absolute;
+    background: #4C299F;
+    border-radius: 8px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+.sub_logout{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 20.80px;
+    word-wrap: break-word;
+}
+
+.headerImg{
+    width: 1248px;
+    height: 217px;
+    left: 96px;
+    top: 114px;
+    position: absolute
+}
+
+.rectangle6{
+    width: 1248px;
+    left: 96px;
+    top: 330px;
+    position: absolute;
+    background: #BEB0DF;
+}
+
+.most_popular{
+    width: 215px;
+    left: 1040px; 
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-family: "Times New Roman";
+    font-weight: 900;
+    line-height: 58.50px;
+    word-wrap: break-word;
+    text-decoration: underline;
+}
+
+ul.interpreter li { 
+	background-color: white; 
+	width: 250px;
+    height: 390px;
+	display: inline-block; 
+	border-width:5px;
+	border-style:groove; 
+	border-color:rgb(255, 255, 255);
+    border-radius: 39px;
+	margin: 40px 0 0 20px; 
+	color:white;
+	padding:10px;
+}
+
+.interpreter_img{
+    height: 180px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.user_img{
+    height: 180px;
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: -20px;
+}
+
+.Info{
+	color: black;
+	font-weight: bold;
+    text-align: center;
+}
+
+.Info1{
+	color: purple;
+	font-weight: bold;
+    text-align: center;
+}
+
+.crosline{
+	color:white;
+	font-weight: bold;
+    text-align: center;
+}
+
+.new{
+	color: yellow;
+	font-weight: bold;
+    text-align: center;
+}
+
+.descp{
+	display: inline;
+	max-height: 200px;
+	max-width: 230px;
+	text-align: center;
+}
+
+.checked {
+    color: orange;
+}
+
+.fa fa-heart{
+    font-size: 100px;
+}
+
+.learn_more{
+	text-align: center top;
+	Font-weight: bold;
+    font-size: 16px;
+    color: red;
+}
+
+.learn_more:hover{
+	color: rgba(82, 7, 99, 0.586);
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600&display=swap');
+.heart-btn{
+  transform: translate(-50%,-50%);
+}
+
+.heart{
+  position: absolute;
+  background: url("../img/img.png") no-repeat;
+  background-size: 2900%;
+  height: 150px;
+  width: 150px;
+  transform: translate(-50%,-50%);
+  right:-45px;  top:-160px;
+
+}
+
+.heart.heart-active{
+  animation: animate .8s steps(28) 1;
+  background-position: right;
+}
+@keyframes animate {
+  0%{
+    background-position: left;
+  }
+  100%{
+    background-position: right;
+  }
+}
+
+/**----------Styles for Footer Section----------**/
+
+.Para_Footer1{
+    color: white;
+    font-size: 40px;
+}
+
+.Para_Footer2{
+    font-weight: normal;
+    color: black;
+    font-size: 20px;
+}
+
+footer{
+    height: 250px;
+    text-align: center;
+    padding: 3px;
+    background-color:#d1c8c8;
+    color: white;
+}
+
+.socials > div {
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+  
+.socials a {
+    padding: 2px 7px;
+    font-size: 1.8rem;
+    color: black;
+    transition: 0.3s;
+}
+
+.socials span {
+    font-size: 1.1rem;
+    color: var(--white);
+    cursor: pointer;
+ }
+
+.rectangle7{
+    width: 1248px;
+    left: 96px;
+    top: 124px;
+    position: absolute;
+    background: rgba(128.09, 104.93, 172.96, 0.49);
+    border-radius: 39px;
+}
+
+.rectangle8{
+    width: 1248px;
+    height: 250px;
+    left: 96px;
+    top: 650px;
+    position: absolute;
+    background-color:#d1c8c8;
+    color: white;
+}
+
+/**--------------------Styles for Successful Registration--------------------**/
+
+#card{
+    position: relative;
+    width: 320px;
+    height: 900px;
+    display: block;
+    margin: 40px auto;
+    text-align: center;
+}
+
+#upper-side{
+    padding: 2em;
+    background-color:rgba(128.09, 104.93, 172.96, 0.49);
+    display: block;
+    color: #fff;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+#status{
+    font-weight: lighter;
+    text-transform: capitalize;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+#lower-side{
+    padding: 3em 3em 5em 3em;
+    background: #eeeded;
+    display: block;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+#message{
+    margin-top: -.5em;
+    color: #757575;
+    letter-spacing: 1px;
+}
+
+#contBtn{
+    position: relative;
+    top: 1.5em;
+    text-decoration: none;
+    font-weight: bold;
+    background: rgba(128.09, 104.93, 172.96, 0.49);
+    color: #fff;
+    margin: auto;
+    padding: .8em 3em;
+    -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.21);
+    -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.21);
+    box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.21);
+    border-radius: 25px;
+    -webkit-transition: all .4s ease;
+        -moz-transition: all .4s ease;
+        -o-transition: all .4s ease;
+        transition: all .4s ease;
+}
+
+#contBtn:hover{
+    -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -webkit-transition: all .4s ease;
+        -moz-transition: all .4s ease;
+        -o-transition: all .4s ease;
+        transition: all .4s ease;
+}
+
+
+/**--------------------Styles for Most Popular Page--------------------**/
+
+.appointments{
+    width : 140px;
+	height: 35px;
+	text-align: center top;
+	Font-family:tahoma;
+	Font-weight: bold;
+	border-color : rgb(0, 0, 0);
+	border-width : 5 px;
+	background: #000000;
+    color: white;
+}
+
+.appointments:hover{
+	background-color: rgba(103, 43, 116, 0.586);
+}
+
+
+/**--------------------Styles for Options Pages--------------------**/
+
+.rectangle9{
+    width: 1248px;
+    height: 428px;
+    margin: auto auto auto auto;
+    top: 124px;
+    position: relative;
+    background: rgba(128.09, 104.93, 172.96, 0.49);
+    border-radius: 39px 39px 0 0;
+}
+
+.rectangle10{
+    width: 80%;
+    height: 75%;
+    margin: auto auto auto auto;
+    top: 50px;
+    position: relative;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+}
+
+.rectangle11{
+    width: 1248px;
+    height: 250px;
+    margin: 120px auto auto auto;
+    position: relative;
+    background-color:#d1c8c8;
+    color: white;
+}
+
+.rectangle12{
+    width: 80%;
+    height: 90%;
+    margin: auto auto auto auto;
+    top: 20px;
+    position: relative;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+}
+
+.rectangle13{
+    width: 1248px;
+    height: 250px;
+    margin: 750px auto auto auto;
+    position: relative;
+    background-color:#d1c8c8;
+    color: white;
+}
+
+.nesmaeukImg_options{
+    width: 250px;
+    height: 250px;
+    right: 20px;
+    top: 5px;
+    position: absolute;
+}
+
+.label1{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.update_img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: -20px;
+}
+
+.Update{
+    width: 110px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.Update:hover{
+    background-color: purple;
+}
+
+
+/**--------------------Styles for Admin Pages--------------------**/
+
+.rectangle14{
+    width: 20%;
+    height: 50%;
+    margin: 100px 30px auto auto;
+    position: absolute;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+    display: flexbox;
+    justify-content: center;
+}
+
+.rectangle15{
+    width: 20%;
+    height: 50%;
+    margin: 100px 330px auto auto;
+    position: absolute;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+    display: flexbox;
+    justify-content: center;
+}
+
+.rectangle16{
+    width: 20%;
+    height: 50%;
+    margin: 100px 650px auto auto;
+    position: absolute;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+    display: flexbox;
+    justify-content: center;
+}
+
+.Update_Button,.Delete_Button{
+    width : 100px;
+	height: 30px;
+    margin-right: 6px;
+	text-align: center top;
+	Font-family:tahoma;
+	Font-weight: bold;
+	border-color : rgb(0, 0, 0);
+	border-width : 5 px;
+	background-color: #000;
+	color: #fff;
+}
+
+.Update_Button:hover{
+	background-color: rgb(31, 196, 31);
+	color: #ffffff;
+}
+
+.Delete_Button:hover{
+	background-color: rgb(210, 54, 15);
+	color: #ffffff;
+}
+
+.rectangle17{
+    width: 1248px;
+    height: auto;
+    margin: auto auto auto auto;
+    top: 124px;
+    padding: 50px 0 50px 0;
+    position: relative;
+    background: rgba(128.09, 104.93, 172.96, 0.49);
+    border-radius: 39px;
+}
+
+.rectangle18{
+    width: 75%;
+    height: auto;
+    margin: auto auto auto auto;
+    padding-top: 20px;
+    position: relative;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+}
+
+.Users_Table{
+	text-align: center;
+}
+
+.rectangle19{
+    width: 85%;
+    height: auto;
+    margin: auto auto auto auto;
+    padding-top: 20px;
+    position: relative;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+}
+
+.rectangle20{
+    width: 20%;
+    height: 50%;
+    margin: 100px 970px auto auto;
+    position: absolute;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+    display: flexbox;
+    justify-content: center;
+}
+
+.rectangle21{
+    width: 95%;
+    height: auto;
+    margin: auto auto auto auto;
+    padding: 25px 20px 20px 20px;
+    position: relative;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+}
+
+
+/**--------------------Styles for Contact Us Page--------------------**/
+
+.btn-submit1 {
+    padding: 50px 0 0px 0;
+}
+
+.btn-submit1 input{
+    width: 80px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    border-radius: 5%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn-submit1 input:hover{
+    color: yellow;
+}
+
+.nesmaeukImg_contact{
+    width: 250px;
+    height: 250px;
+    left: 20px;
+    bottom: 5px;
+    position: absolute;
+}
+
+.rectangle22{
+    width: 1248px;
+    height: 250px;
+    margin: 60px auto auto auto;
+    position: relative;
+    background-color:#d1c8c8;
+    color: white;
+}
+
+
+/**--------------------Styles for Terms & Conditions Page--------------------**/
+
+.rectangle23{
+    width: 90%;
+    height: auto;
+    margin: auto auto auto auto;
+    padding-top: 20px;
+    position: relative;
+    background: rgb(255, 255, 255);
+    border-radius: 39px;
+}
+
+.terms{
+    justify-content: center;
+    text-align: center;
+    padding: 15px 0 70px 0;
+}
+
+.rectangle23 p{
+    padding-right: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.rectangle23 h3{
+    padding-right: 10px;
+}
+
+
+/**--------------------Styles for Terms & Conditions Page--------------------**/
+
+.Successful{
+    margin-right: 120px;
+    width: 35%;
+    text-align: center;
+}
+
+.Successful img{
+    border-radius: 10%;
+}
+
+
+/**--------------------Styles for Session Page--------------------**/
+
+.session{
+    color: Blue;
+    text-decoration-line: underline;
+	font-weight: bold;
+    text-align: center;
+}
+
+.disabled{
+    color: rgb(65, 63, 63);
+    cursor: not-allowed;
+    font-weight: bold;
+}
+
+.disabled:hover{
+    color: rgb(65, 63, 63);
+    cursor: not-allowed;
+    font-weight: bold;
+}
+
+/**--------------------Styles for Add Time & Page Page--------------------**/
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    margin-top: 80px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.label2 {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="date"],
+input[type="time"],
+.submit-btn {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.submit-btn {
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #4cae4c;
+}
